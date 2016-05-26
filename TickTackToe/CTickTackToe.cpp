@@ -252,14 +252,14 @@ void CTickTackToeWindow::moveComputer()
 	{
 		std::vector<std::pair<int, int>> resultOfneighbors;
 		int maxNeighbors = -1;
-		for (int i = 0; i<resultOfWeight.size(); i++)
+		for (int i = 0; i < resultOfWeight.size(); i++)
 		{
-			int x = resultOfWeight[0].first;
-			int y = resultOfWeight[0].second;
+			int x = resultOfWeight[i].first;
+			int y = resultOfWeight[i].second;
 			int countNeighbors = neighbors(x, y, GAME_COMPUTER);
 			if (countNeighbors == maxNeighbors)
 			{
-				resultOfneighbors.push_back(resultOfWeight[0]);
+				resultOfneighbors.push_back(resultOfWeight[i]);
 			}
 			if (countNeighbors > maxNeighbors)
 			{
