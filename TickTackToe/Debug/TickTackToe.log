@@ -1,0 +1,16 @@
+﻿  CTickTackToe.cpp
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(43): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(167): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(168): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(169): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(170): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(185): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(186): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(187): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(188): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(255): warning C4018: <: несоответствие типов со знаком и без знака
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(332): warning C4800: ATOM: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(773): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+d:\visualstudio2015projects\ticktacktoe\ticktacktoe\cticktacktoe.cpp(780): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  TickTackToe.vcxproj -> D:\VisualStudio2015Projects\TickTackToe\Debug\TickTackToe.exe
+  TickTackToe.vcxproj -> D:\VisualStudio2015Projects\TickTackToe\Debug\TickTackToe.pdb (Partial PDB)
